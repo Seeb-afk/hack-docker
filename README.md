@@ -59,8 +59,56 @@ Y corremos el servidor usando la imagen
 <img width="1075" height="386" alt="image" src="https://github.com/user-attachments/assets/ca8b01c8-3f3b-4812-8734-90d0fb6478fb" />
 <img width="1600" height="815" alt="image" src="https://github.com/user-attachments/assets/e5b05368-837c-41ec-85cc-7f99f7e5f939" />
 
+Para finalizar, verificamos si se borraron los archivos como se mencionan en el Dockerfile
+
+<img width="1076" height="172" alt="image" src="https://github.com/user-attachments/assets/35773677-8e59-42e1-8235-12ac04e6abca" />
+
+<br/>
+
+Se puede confirmar que no hay archivos en ese directorio
+
 <br/>
 <br/>
 
 ## Hack Docker #3
 <br/>
+
+Se crea todo lo necesario dentro de la carpeta
+
+<img width="1077" height="326" alt="image" src="https://github.com/user-attachments/assets/3be40884-72a4-4ec4-947e-c7c2324d6bdf" />
+
+<br/>
+
+Se añade a requirements.txt la información
+
+<img width="1077" height="765" alt="image" src="https://github.com/user-attachments/assets/95967118-9df4-49f2-8256-f8d9f0ee4d50" />
+<img width="1080" height="230" alt="image" src="https://github.com/user-attachments/assets/28e814c3-0842-42ff-b722-0393fd76f166" />
+
+<br/>
+
+Se edita app.py
+
+<img width="1074" height="760" alt="image" src="https://github.com/user-attachments/assets/87324e2e-a446-4926-8161-c5f0939bdb65" />
+<img width="1078" height="458" alt="image" src="https://github.com/user-attachments/assets/86bf94c3-f8e1-434b-92bf-8ae74f17ab50" />
+
+<br/>
+
+Se edita Dockerfile
+
+<img width="1071" height="515" alt="image" src="https://github.com/user-attachments/assets/b3f06280-4028-479e-9113-2ac66486136d" />
+
+<br/>
+
+Se crea la imagen y se verifica
+
+<img width="1071" height="586" alt="image" src="https://github.com/user-attachments/assets/35a483ac-b404-4db4-ad5c-f45938a6d530" />
+<img width="1077" height="175" alt="image" src="https://github.com/user-attachments/assets/492ee1fc-9e24-405c-ad41-d50bee2941db" />
+
+<br/>
+
+Se corre el servidor
+
+<img width="1078" height="218" alt="image" src="https://github.com/user-attachments/assets/8a8a28bb-3940-4a61-ab4e-63e809deb445" />
+<img width="1597" height="815" alt="image" src="https://github.com/user-attachments/assets/16cafe95-8375-41d1-9d3f-3a73d2aaa0ac" />
+
+Eso es todo
