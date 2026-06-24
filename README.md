@@ -34,3 +34,33 @@ Y corremos un servidor usando la imagen creada
 
 ## Hack Docker #2
 <br/>
+
+Primero se crea la carpeta y el archivo Dockerfile
+
+<img width="1078" height="350" alt="image" src="https://github.com/user-attachments/assets/f1daa155-8570-4267-9532-53fe99cf693c" />
+
+<br/>
+
+Se edita el archivo Dockerfile y se guarda
+
+<img width="1077" height="763" alt="image" src="https://github.com/user-attachments/assets/3b6f63aa-cb73-4715-8d73-87f13821d389" />
+<img width="1078" height="388" alt="image" src="https://github.com/user-attachments/assets/95ca3955-bf9e-4e68-8290-5b596ff3dc02" />
+
+<br/>
+
+Se crea la imagen con el archivo Dockerfile
+
+<img width="1077" height="674" alt="image" src="https://github.com/user-attachments/assets/f47ddd9c-254e-4741-adbf-ecaf8108a8bd" />
+
+<br/>
+
+Y corremos el servidor usando la imagen
+
+<img width="1075" height="386" alt="image" src="https://github.com/user-attachments/assets/ca8b01c8-3f3b-4812-8734-90d0fb6478fb" />
+<img width="1600" height="815" alt="image" src="https://github.com/user-attachments/assets/e5b05368-837c-41ec-85cc-7f99f7e5f939" />
+
+<br/>
+<br/>
+
+## Hack Docker #3
+<br/>
